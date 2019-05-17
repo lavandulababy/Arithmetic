@@ -35,5 +35,6 @@ public class MergeArray {
             System.out.println(nums1[i]);
         }
 
+
     }
 }
